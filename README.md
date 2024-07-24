@@ -3,11 +3,7 @@
 This project implements a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset. The MNIST dataset is a benchmark dataset in the field of machine learning and computer vision, containing 60,000 training images and 10,000 test images of handwritten digits (0-9).
 
 ## Project Structure
-
-- **`data/`**: Contains the MNIST dataset (if applicable).
-- **`model/`**: Includes the CNN model architecture and trained weights.
-- **`notebooks/`**: Jupyter notebooks for data exploration, model training, and evaluation.
-- **`scripts/`**: Python scripts for training the model, testing, and utilities.
+- **`MNIST`**: the notebook, with code
 - **`README.md`**: Project documentation.
 
 ## Getting Started
