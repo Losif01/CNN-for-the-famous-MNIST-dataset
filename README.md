@@ -19,15 +19,21 @@ This project implements a Convolutional Neural Network (CNN) to classify handwri
 ### Installation
 
 1. Clone the repository:
-   `git clone https://github.com/Losif01/CNN-for-the-famous-MNIST-dataset.git
-    cd CNN-for-the-famous-MNIST-dataset`
+   ```
+   git clone https://github.com/Losif01/CNN-for-the-famous-MNIST-dataset.git
+   cd CNN-for-the-famous-MNIST-dataset
+   ```
 
 2. Create a virtual environment and activate it:
-   `python3 -m venv venv
-    source venv/bin/activate`
+   ```
+   python3 -m venv venv
+   source venv/bin/activate
+   ```
    
 3. Install the required packages:
-    `pip install -r requirements.txt`
+    ```
+   pip install -r requirements.txt
+    ```
 
 
 
